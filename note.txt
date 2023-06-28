@@ -1,3 +1,4 @@
 1. This project is styled by tailwind.(cause i am much comfortable with tailwind)
 2. This project is not responsive.
 3. I load products data from "products.json" file.
+4. deployed link: https://649c42a51da5c212246dd94a--beautiful-sable-8b5763.netlify.app
