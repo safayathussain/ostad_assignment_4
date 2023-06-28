@@ -1,0 +1,65 @@
+[
+    {
+            "name": "iPhone 13",
+            "qty": 0,
+            "id": "P001",
+            "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-94778/Apple-iPhone-13-Pro-featured-image-packshot-review.jpg",
+            "price": 999.99
+    },
+    {
+            "name": "Samsung Galaxy S21",
+            "qty": 0,
+            "id": "P002",
+            "image": "https://adminapi.applegadgetsbd.com/storage/media/large/2101-34043.jpg",
+            "price": 899.99
+    },
+    {
+            "name": "Sony PlayStation 5",
+            "qty": 0,
+            "id": "P003",
+            "image": "https://www.thesun.co.uk/wp-content/uploads/2018/01/nintchdbpict000378497778.jpg?strip=all&w=960",
+            "price": 499.99
+    },
+    {
+            "name": "MacBook Pro",
+            "qty": 0,
+            "id": "P004",
+            "image": "https://images.officeworks.com.au/api/2/img/https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/MBP256M2SG_.jpg/resize?size=600&auth=MjA5OTcwODkwMg__",
+            "price": 1999.99
+    },
+    {
+            "name": "Nintendo Switch",
+            "qty": 0,
+            "id": "P005",
+            "image": "https://static.independent.co.uk/2023/03/07/11/Nintendo%20Switch%20Indybest%20copy.jpg",
+            "price": 299.99
+    },
+    {
+            "name": "DJI Mavic Air 2",
+            "qty": 0,
+            "id": "P006",
+            "image": "https://viewtime.co.ke/wp-content/uploads/2020/11/7-8.jpg",
+            "price": 799.99
+    },
+    {
+            "name": "Fitbit Versa 3",
+            "qty": 0,
+            "id": "P007",
+            "image": "https://www.expertreviews.co.uk/sites/expertreviews/files/2020/10/fitbit_versa_3_review_25.jpg",
+            "price": 199.99
+    },
+    {
+            "name": "Amazon Echo Dot",
+            "qty": 0,
+            "id": "P008",
+            "image": "https://cdn.mos.cms.futurecdn.net/aw2rKat9a9CwEgPr8ZCcM3-320-80.jpg",
+            "price": 49.99
+    },
+    {
+            "name": "GoPro Hero 9",
+            "qty": 0,
+            "id": "P009",
+            "image": "https://www.computervillage.com.bd/image/cache/catalog/uploads/products/photos/item_GoPro-HERO-9-Black-20MP-5K-Ultra-HD-Touch-Screen-Waterproof-Action-Camera-__1626762943-550x350h.jpg.webp",
+            "price": 399.99
+    }
+]
